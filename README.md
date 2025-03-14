@@ -118,3 +118,5 @@ citrus3000psi - [gcplug](https://www.reddit.com/r/Gamecube/comments/7gduxq/build
 
 ![image](https://github.com/user-attachments/assets/1d111fb5-5a61-4286-8797-cf4821135f15)
 
+https://github.com/user-attachments/assets/7356d1f4-85a7-4fde-a83c-853f3280a0fc
+
