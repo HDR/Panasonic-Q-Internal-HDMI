@@ -111,3 +111,8 @@ ikorb - [gcvideo](https://github.com/ikorb/gcvideo)
 
 citrus3000psi - [gcplug](https://www.reddit.com/r/Gamecube/comments/7gduxq/build_your_own_gcplug/)
 
+
+![image](https://github.com/user-attachments/assets/b35e1229-5001-494f-b594-a2854504505b)
+
+![image](https://github.com/user-attachments/assets/1d111fb5-5a61-4286-8797-cf4821135f15)
+
