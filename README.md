@@ -3,6 +3,8 @@
 
 [![GitHub](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Please consider supporting me on [ko-fi](https://ko-fi.com/martinrefseth), i generally don't make money on projects like this.
+
 A drop-in plug & play GCPlug based HDMI mod for the Panasonic Q
 
 # Ordering the PCB
