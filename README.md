@@ -104,6 +104,7 @@ You can also upload `LCSC_BOM.xls` to [LCSC](https://www.lcsc.com/inquiry)
 - Make sure you hold the button on the board to bring up the remote programming menu BEFORE assembling your Panasonic Q (Save the settings in the menu after programming the remote)
 - Cut the pin headers with a flush cutter before re-assembly, otherwise your disk assembly won't fit
 - The cost with assembly from PCBWay should be around 78 USD
+- HDMI output is for GC mode only
 
 
 ## Credits
