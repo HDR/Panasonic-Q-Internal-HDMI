@@ -57,9 +57,10 @@ A drop-in plug & play GCPlug based HDMI mod for the Panasonic Q
 2. Connect the programmer to the HDMI board according to the pinout written on the programmer and the board
 3. Open CH341A Programmer
 4. Press the open button and select `gcvideo-dvi-gcplug-3.1-spirom-complete.bin`
-5. Press program
-6. Press verify to make sure the firmware was written correctly
-7. Remove the bridge on JP1
+5. Select Type: `25 SPI FLASH`, Manu: `GIGADEVICE` & Name: `GD25D40`
+6. Press program
+7. Press verify to make sure the firmware was written correctly
+8. Remove the bridge on JP1
 
 # Parts Overview
 ## Hardware Parts
