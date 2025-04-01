@@ -91,7 +91,7 @@ A drop-in plug & play GCPlug based HDMI mod for the Panasonic Q
 | R2                            | 1   | RC0402FR-07220RL      | 0402                                 | 220Ω Resistor                          | C112291   |
 | R3, R4                        | 2   | 0402WGJ0472TCE        | 0402                                 | 4.7kΩ Resistor                         | C25940    |
 | R5                            | 1   | 0402WGF1800TCE        | 0402                                 | 180Ω Resistor                          | C38941    |
-| R6, R7                        | 2   | RC0603FR-0710KL       | 0402                                 | 10kΩ Resistor                          | C98220    |
+| R6, R7                        | 2   | RC0402FR-0710KL       | 0402                                 | 10kΩ Resistor                          | C98220    |
 | SW1                           | 1   | B3U-1000P             | SMD,2.5x3mm                          | Remote Programming Button              | C231329   |
 | U1                            | 1   | XC3S200A-4VQG100C     | TQFP-100(14x14)                      | XILINX FPGA                            | C1521645  |
 | U2                            | 1   | ZD25D40CNJGR          | USON-8-EP(1.5x1.5)                   | SPI NOR Flash                          | C3646778  |
