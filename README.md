@@ -107,6 +107,7 @@ You can also upload `LCSC_BOM.xls` to [LCSC](https://www.lcsc.com/inquiry)
 - Cut the pin headers with a flush cutter before re-assembly, otherwise your disk assembly won't fit
 - The cost with assembly from PCBWay should be around 78 USD
 - HDMI output is for GC mode only
+- Enhanced DVI needs to be turned on in the GCVideo settings for audio output
 
 
 ## Credits
